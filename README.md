@@ -6,4 +6,4 @@ The cross entropy method may seem like a very strange choice for blackjack becau
 
 
 ## Disclaimer
-This code is based on a solution for OpenAI's mountain car problem. I think Karpathy wrote this solution but unfortunately the blog post describing it is no longer available. I converted the code to be compatible with the blackjack setting.
+This code is based on a solution for OpenAI's mountain car problem. I think Karpathy wrote the code this is based on but unfortunately the blog post describing it is either no longer available or I just can't find it anymore. I converted the code to be compatible with the blackjack setting.
